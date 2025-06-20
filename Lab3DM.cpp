@@ -1,4 +1,4 @@
-//Лабораторная работа №2
+//Лабораторная работа №3
 #include <iostream>
 #include <vector>
 #include <Windows.h>
